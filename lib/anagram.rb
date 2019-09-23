@@ -13,6 +13,6 @@ def match(array_of_words)
 end 
 
 listen = Anagram.new("listen")
-listen.match
+listen.match(%w(enlists google inlets banana))
 
 end 
