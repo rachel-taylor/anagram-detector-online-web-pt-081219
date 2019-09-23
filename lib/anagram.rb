@@ -6,5 +6,6 @@ def intialize(word)
   @word = word
 end 
 
+def 
 
 end 
